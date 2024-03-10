@@ -1,5 +1,5 @@
 ## Lincoln-Library-Management-System-LLMS
-The library management system aims to provide a convenient platform for librarians and book enthusiasts. It consists of an administrative interface for managing library resources, while users can easily navigate through the library's collection and conveniently pay fees online.
+<!-- The library management system aims to provide a convenient platform for librarians and book enthusiasts. It consists of an administrative interface for managing library resources, while users can easily navigate through the library's collection and conveniently pay fees online.
 
 **General Features:**
 - Signup and Signin
@@ -20,6 +20,6 @@ The library management system aims to provide a convenient platform for libraria
 - Book Categories (To add Category)
 - Manage Issued Books
 - Manage Transactions
-- User Management
+- User Management -->
 
 # Lincoln-Library-Management-System-LLMS
